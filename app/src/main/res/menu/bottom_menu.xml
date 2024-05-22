@@ -1,0 +1,17 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/theory_fragment"
+        android:icon="@drawable/ic_theory"
+        android:title="Theory" />
+
+    <item
+        android:id="@+id/formulas_fragment"
+        android:icon="@drawable/ic_formulas"
+        android:title="Formulas" />
+
+    <item
+        android:id="@+id/videos_fragment"
+        android:icon="@drawable/ic_videos"
+        android:title="Videos" />
+</menu>
